@@ -47,13 +47,7 @@ Examen interactivo de opción múltiple para la materia de Desarrollo Web Avanza
 studysync-exam/
 └── index.html   ← Examen completo (auto-contenido)
 └── README.md
-└── .gitignore
 ```
-
-## .gitignore
-
-El proyecto no genera archivos de build, pero se incluye `.gitignore` estándar para evitar subir archivos del sistema.
-
 ---
 
-**Desarrollado para:** Desarrollo Web Avanzado — Guía StudySync Parte I
+**Desarrollado para:** UPDS - Programación IV [Primer Parcial]
